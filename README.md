@@ -1,18 +1,22 @@
-<div align="center">
-
-<p align="right" style="margin-top: -10px;">
-  <a href="README.md" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20" style="vertical-align: middle; border-radius: 3px;"/> <span style="font-size:14px;">English</span>
-  </a>
-  &nbsp;|&nbsp;
-  <a href="README.es.md" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20" style="vertical-align: middle; border-radius: 3px;"/> <span style="font-size:14px;">Español</span>
-  </a>
+<p align="right">
+  <span style="
+    background: rgba(30,34,50,0.85);
+    padding: 5px 16px 5px 10px;
+    border-radius: 25px;
+    border: 1px solid #292e4a;
+    font-size: 14px;
+    font-weight: 600;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.10);
+    display: inline-block;">
+    <a href="README.md" style="text-decoration: none;">
+      <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="18" style="vertical-align: middle; border-radius: 3px;"/> English
+    </a>
+    &nbsp;|&nbsp;
+    <a href="README.es.md" style="text-decoration: none;">
+      <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="18" style="vertical-align: middle; border-radius: 3px;"/> Español
+    </a>
+  </span>
 </p>
-
-
-
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=WualterS&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/> 
