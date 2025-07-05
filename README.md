@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/🇪🇸-VERSIÓN_ESPAÑOL-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Español" />
   </a>
 </div>
+
 ---
 
 <h2 align="center">
