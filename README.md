@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🤖+AUTOMATION+ARCHITECT;🐍+PYTHON+WIZARD;⚡+BOT+DEVELOPER;🎮+GAMING+ENTHUSIAST;🚀+ALWAYS+INNOVATING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🤖+PASSIONATE+DEVELOPER;🐍+PYTHON+ENTHUSIAST;⚡+AUTOMATION+LEARNER;🎮+GAMING+%2B+CODE+LOVER;🚀+CONTINUOUSLY+GROWING" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -46,20 +46,20 @@
           <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
         </h3>
         <p align="left">
-          <strong>🔧 Automation Specialist</strong><br>
-          I currently work on automation projects and bot development, primarily using Python and JavaScript. My focus is on creating tools that improve productivity and help automate repetitive tasks.
+          <strong>🔧 Passionate About Automation</strong><br>
+          I'm deeply fascinated by automation and how code can solve real problems. I love building tools that make life easier, and I'm constantly learning new ways to improve my skills.
         </p>
         <p align="left">
-          <strong>🎯 Bot Developer</strong><br>
-          I develop Discord bots and automation tools that solve real-world problems. I'm passionate about creating practical solutions for common challenges.
+          <strong>🎯 Self-Taught Developer</strong><br>
+          I started my programming journey recently and I'm completely hooked! I learn by doing - building projects, experimenting with code, and solving challenges that interest me.
         </p>
         <p align="left">
-          <strong>📚 Perpetual Learner</strong><br>
-          I'm constantly learning, exploring new technologies. Currently learning SQL databases and Java, while strengthening my knowledge in React and Node.js.
+          <strong>📚 Always Learning</strong><br>
+          Every day I discover something new in programming. Currently diving deep into Python, exploring JavaScript, and planning to learn Java and SQL databases.
         </p>
         <p align="left">
-          <strong>🎮 Gaming Enthusiast</strong><br>
-          When I'm not coding, I enjoy playing video games and exploring new technologies that help me grow as a developer.
+          <strong>🎮 Gaming Meets Programming</strong><br>
+          My love for gaming sparked my interest in automation. I enjoy creating tools that can interact with games and automate repetitive tasks.
         </p>
       </td>
       <td align="center" width="40%">
@@ -71,64 +71,99 @@
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  &nbsp;TECH ARSENAL&nbsp;
+  &nbsp;MY LEARNING JOURNEY&nbsp;
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
 </h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7839a2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
-### <div align="center">🔥 MAIN LANGUAGES & TECHNOLOGIES 🔥</div>
-
-<div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <h4>💻 LANGUAGES</h4>
-        <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,sql&theme=dark" />
+      <td align="center" width="50%">
+        <h4>🌱 HOW I STARTED</h4>
+        <p align="left">
+          • Started with basic Python tutorials<br>
+          • Got interested in automation after seeing repetitive tasks<br>
+          • Built my first project to learn by doing<br>
+          • Discovered the joy of solving problems with code
+        </p>
       </td>
-      <td align="center" width="33%">
-        <h4>⚡ FRAMEWORKS</h4>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,discord&theme=dark" />
+      <td align="center" width="50%">
+        <h4>🔥 WHAT DRIVES ME</h4>
+        <p align="left">
+          • Love seeing code solve real problems<br>
+          • Enjoy the challenge of learning new concepts<br>
+          • Excited about building tools that help people<br>
+          • Curious about how everything works behind the scenes
+        </p>
       </td>
-      <td align="center" width="33%">
-        <h4>🛠️ TOOLS</h4>
-        <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github&theme=dark" />
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🎯 CURRENT FOCUS</h4>
+        <p align="left">
+          • Mastering Python fundamentals<br>
+          • Learning JavaScript for web development<br>
+          • Exploring database concepts with SQL<br>
+          • Planning to dive into Java next
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h4>📈 GOALS FOR 2025</h4>
+        <p align="left">
+          • Build 3-5 more automation projects<br>
+          • Contribute to open-source projects<br>
+          • Learn React and Node.js<br>
+          • Maybe try my first internship or junior position
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
-### <div align="center">🚀 LIBRARIES & SPECIALTIES 🚀</div>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  &nbsp;SKILLS & TECHNOLOGIES&nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h4>💪 COMFORTABLE WITH</h4>
+        <img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" />
+        <p><strong>Python</strong> • <strong>HTML/CSS</strong> • <strong>Problem-solving</strong></p>
+      </td>
+      <td align="center" width="33%">
+        <h4>📖 CURRENTLY LEARNING</h4>
+        <img src="https://skillicons.dev/icons?i=javascript,java,sql&theme=dark" />
+        <p><strong>JavaScript</strong> • <strong>Java</strong> • <strong>SQL</strong></p>
+      </td>
+      <td align="center" width="33%">
+        <h4>🎯 WANT TO LEARN</h4>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
+        <p><strong>React</strong> • <strong>Node.js</strong> • <strong>Frameworks</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### <div align="center">🛠️ TOOLS & LIBRARIES I'VE USED</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py" />
   <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
   <img src="https://img.shields.io/badge/Requests-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
-</div>
-
-### <div align="center">📚 CURRENTLY LEARNING 📚</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=📊+SQL+Databases;☕+Java+Development;⚛️+Advanced+React;🟢+Node.js+Backend;🔍+New+Technologies" alt="Learning" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  &nbsp;FEATURED PROJECT&nbsp;
+  &nbsp;MY LEARNING PROJECT&nbsp;
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
@@ -141,21 +176,29 @@
     <tr>
       <td align="center" width="100%">
         <h3>🏇 UMAPYOI AUTOREROLL</h3>
-        <p><strong>🎮 Automation Tool for Umamusume: Pretty Derby</strong></p>
+        <p><strong>🎮 Personal Project - Game Automation Tool</strong></p>
         <br>
         <p align="left">
-          <strong>🌟 Flagship Project:</strong> An application that automates the reroll process in the Umamusume: Pretty Derby game. This project has allowed me to apply and demonstrate my skills in automation, image recognition, and bot development.
+          <strong>📚 What I Learned Building This:</strong><br>
+          This was my first real automation project, and it taught me that programming isn't just about writing code - it's about solving actual problems and making things more efficient.
         </p>
         <br>
         <div align="left">
-          <h4>🔧 Technical Features:</h4>
-          <p>🔄 <strong>Complete Automation</strong> - Intelligent process automation system</p>
-          <p>👁️ <strong>Image Recognition</strong> - Advanced OpenCV implementation for precise detection</p>
-          <p>⚡ <strong>Performance Optimization</strong> - Efficient algorithms for maximum speed and stability</p>
-          <p>🎯 <strong>Intuitive Interface</strong> - User-friendly design developed with Tkinter</p>
-          <p>🐍 <strong>Python Development</strong> - Clean, documented and maintainable code</p>
-          <p>🔧 <strong>Customizable Configuration</strong> - Adaptable to different needs and preferences</p>
-          <p>📈 <strong>Proven Efficiency</strong> - Significant reduction in processing time</p>
+          <h4>🚀 Technical Skills I Developed:</h4>
+          <p>🔍 <strong>Problem-Solving</strong> - Identified a repetitive task and figured out how to automate it</p>
+          <p>👁️ <strong>OpenCV Basics</strong> - Learned image recognition concepts from scratch</p>
+          <p>🐍 <strong>Python Development</strong> - Applied Python concepts in a real-world project</p>
+          <p>🎯 <strong>UI Design</strong> - Created my first desktop interface using Tkinter</p>
+          <p>🧪 <strong>Testing & Debugging</strong> - Learned to troubleshoot and improve code iteratively</p>
+          <p>📖 <strong>Documentation</strong> - Practiced writing clear, helpful documentation</p>
+        </div>
+        <br>
+        <div align="left">
+          <h4>💡 What This Project Taught Me:</h4>
+          <p>• How to break down complex problems into smaller, manageable pieces</p>
+          <p>• The importance of user-friendly interfaces, even for personal tools</p>
+          <p>• How satisfying it is to see your code actually solve real problems</p>
+          <p>• That learning happens best when you're building something you care about</p>
         </div>
       </td>
     </tr>
@@ -166,12 +209,57 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  &nbsp;DEVELOPMENT PHILOSOPHY&nbsp;
+  &nbsp;WHAT I CAN DO&nbsp;
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💡+%22Automation+turns+repetition+into+opportunities%22;🚀+%22Efficient+code+is+the+bridge+between+problems+and+solutions%22;⚡+%22Every+tool+created+is+a+step+toward+productivity%22;🎯+%22Innovation+is+born+from+constant+curiosity%22;🌟+%22A+good+developer+never+stops+learning%22" alt="Philosophy" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🤖 AUTOMATION PROJECTS</h4>
+        <p>• Simple task automation with Python<br>
+        • Basic image recognition using OpenCV<br>
+        • Desktop GUI applications with Tkinter<br>
+        • Web scraping for data collection</p>
+      </td>
+      <td align="center" width="50%">
+        <h4>🌐 WEB DEVELOPMENT</h4>
+        <p>• Basic HTML/CSS websites<br>
+        • Learning JavaScript fundamentals<br>
+        • Planning to build dynamic web apps<br>
+        • Interested in full-stack development</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🎮 GAMING TOOLS</h4>
+        <p>• Game automation utilities<br>
+        • Process optimization tools<br>
+        • Custom gaming interfaces<br>
+        • Performance enhancement scripts</p>
+      </td>
+      <td align="center" width="50%">
+        <h4>📚 LEARNING APPROACH</h4>
+        <p>• Learning by building real projects<br>
+        • Problem-solving through research<br>
+        • Clean, documented code practices<br>
+        • Continuous improvement mindset</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  &nbsp;MY CODING PHILOSOPHY&nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=💡+%22Every+expert+was+once+a+beginner%22;🚀+%22The+best+way+to+learn+is+by+building%22;⚡+%22Code+is+just+a+tool+-+solving+problems+is+the+real+skill%22;🎯+%22Curiosity+and+persistence+beat+natural+talent%22;🌟+%22Every+bug+is+a+learning+opportunity%22" alt="Philosophy" />
 </div>
 
 <div align="center">
@@ -182,7 +270,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  &nbsp;CONNECT WITH ME&nbsp;
+  &nbsp;LET'S CONNECT!&nbsp;
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
@@ -190,19 +278,58 @@
   <a href="https://github.com/WualterSEA">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.com/users/">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <div align="center">
   <br>
-  <p><em>🤝 Always open to collaborations and new automation projects</em></p>
-  <p><em>💬 Do you have any questions or would you like to know more about my projects?</em></p>
-  <p><em>📧 Don't hesitate to contact me to discuss innovative ideas!</em></p>
+  <h3>💬 I'm interested in:</h3>
+  <p>🎓 Learning opportunities and mentorship</p>
+  <p>🤝 Collaborating on beginner-friendly projects</p>
+  <p>📚 Connecting with other developers</p>
+  <p>💼 Junior developer opportunities</p>
+  <br>
+  <h3>📧 Reach out if you:</h3>
+  <p>• Want to share learning resources</p>
+  <p>• Have a small project we could work on together</p>
+  <p>• Are looking for someone eager to learn and grow</p>
+  <p>• Just want to chat about programming!</p>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  &nbsp;CURRENT STATUS&nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h4>🔥 ACTIVE ON GITHUB</h4>
+        <p>Regular commits<br>and updates</p>
+      </td>
+      <td align="center" width="25%">
+        <h4>🎯 AVAILABLE FOR PROJECTS</h4>
+        <p>Open to new<br>collaborations</p>
+      </td>
+      <td align="center" width="25%">
+        <h4>📚 LEARNING JAVA</h4>
+        <p>Expanding my<br>skill set</p>
+      </td>
+      <td align="center" width="25%">
+        <h4>🤖 BUILDING COOL STUFF</h4>
+        <p>Always working on<br>something new</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -216,46 +343,54 @@
 
 ### 🙋‍♂️ Sobre Mí
 
-**🔧 Especialista en Automatización**  
-Trabajo en proyectos de automatización y desarrollo de bots, principalmente con Python y JavaScript. Mi enfoque está en crear herramientas que mejoren la productividad y automaticen tareas repetitivas.
+**🔧 Apasionado por la Automatización**  
+Estoy fascinado por la automatización y cómo el código puede resolver problemas reales. Me encanta construir herramientas que hagan la vida más fácil, y estoy constantemente aprendiendo nuevas formas de mejorar mis habilidades.
 
-**🎯 Desarrollador de Bots**  
-Desarrollo bots de Discord y herramientas de automatización que resuelven problemas reales. Me apasiona crear soluciones prácticas para desafíos comunes.
+**🎯 Desarrollador Autodidacta**  
+Comencé mi viaje en programación recientemente y ¡estoy completamente enganchado! Aprendo haciendo - construyendo proyectos, experimentando con código y resolviendo desafíos que me interesan.
 
-**📚 Aprendiz Perpetuo**  
-Estoy en constante aprendizaje, explorando nuevas tecnologías. Actualmente aprendiendo bases de datos SQL y Java, mientras fortalezco mis conocimientos en React y Node.js.
+**📚 Siempre Aprendiendo**  
+Cada día descubro algo nuevo en programación. Actualmente profundizando en Python, explorando JavaScript, y planeando aprender Java y bases de datos SQL.
 
-**🎮 Entusiasta de los Videojuegos**  
-Cuando no estoy programando, disfruto jugando videojuegos y explorando nuevas tecnologías que me ayuden a crecer como desarrollador.
+**🎮 Gaming + Programación**  
+Mi amor por los videojuegos despertó mi interés en la automatización. Disfruto creando herramientas que pueden interactuar con juegos y automatizar tareas repetitivas.
 
-### 🏇 Proyecto Destacado: UMAPYOI AUTOREROLL
+### 🏇 Mi Proyecto de Aprendizaje: UMAPYOI AUTOREROLL
 
-**🎮 Herramienta de Automatización para Umamusume: Pretty Derby**
+**🎮 Proyecto Personal - Herramienta de Automatización de Juegos**
 
-**🌟 Proyecto Insignia:** Una aplicación que automatiza el proceso de reroll en el juego Umamusume: Pretty Derby. Este proyecto me ha permitido aplicar y demostrar mis habilidades en automatización, reconocimiento de imágenes y desarrollo de bots.
+**📚 Lo que Aprendí Construyendo Esto:**
+Este fue mi primer proyecto real de automatización, y me enseñó que programar no es solo escribir código - es resolver problemas reales y hacer las cosas más eficientes.
 
-**🔧 Características Técnicas:**
-- 🔄 **Automatización Completa** - Sistema inteligente de automatización de procesos
-- 👁️ **Reconocimiento de Imágenes** - Implementación avanzada con OpenCV para detección precisa
-- ⚡ **Optimización de Rendimiento** - Algoritmos eficientes para máxima velocidad y estabilidad
-- 🎯 **Interfaz Intuitiva** - Diseño user-friendly desarrollado con Tkinter
-- 🐍 **Desarrollo en Python** - Código limpio, documentado y mantenible
-- 🔧 **Configuración Personalizable** - Adaptable a diferentes necesidades y preferencias
-- 📈 **Eficiencia Comprobada** - Reducción significativa del tiempo de proceso
+**🚀 Habilidades Técnicas que Desarrollé:**
+- 🔍 **Resolución de Problemas** - Identifiqué una tarea repetitiva y descubrí cómo automatizarla
+- 👁️ **Conceptos Básicos de OpenCV** - Aprendí reconocimiento de imágenes desde cero
+- 🐍 **Desarrollo en Python** - Apliqué conceptos de Python en un proyecto real
+- 🎯 **Diseño de UI** - Creé mi primera interfaz de escritorio usando Tkinter
+- 🧪 **Testing y Debugging** - Aprendí a solucionar problemas y mejorar código iterativamente
+- 📖 **Documentación** - Practiqué escribir documentación clara y útil
 
-### 💭 Filosofía de Desarrollo
+### 💭 Mi Filosofía de Programación
 
-*"La automatización transforma lo repetitivo en oportunidades"*  
-*"El código eficiente es el puente entre problemas y soluciones"*  
-*"Cada herramienta creada es un paso hacia la productividad"*  
-*"La innovación nace de la curiosidad constante"*  
-*"Un buen desarrollador nunca deja de aprender"*
+*"Todo experto fue una vez principiante"*  
+*"La mejor manera de aprender es construyendo"*  
+*"El código es solo una herramienta - resolver problemas es la verdadera habilidad"*  
+*"La curiosidad y la persistencia superan al talento natural"*  
+*"Cada bug es una oportunidad de aprendizaje"*
 
-### 🤝 Conecta Conmigo
+### 🤝 ¡Conectemos!
 
-🤝 Siempre abierto a colaboraciones y nuevos proyectos de automatización  
-💬 ¿Tienes alguna pregunta o te gustaría saber más sobre mis proyectos?  
-📧 ¡No dudes en contactarme para discutir ideas innovadoras!
+**💬 Me interesa:**
+- 🎓 Oportunidades de aprendizaje y mentoría
+- 🤝 Colaborar en proyectos para principiantes
+- 📚 Conectar con otros desarrolladores
+- 💼 Oportunidades de desarrollador junior
+
+**📧 Contáctame si:**
+- Quieres compartir recursos de aprendizaje
+- Tienes un proyecto pequeño en el que podríamos trabajar juntos
+- Buscas a alguien ansioso por aprender y crecer
+- ¡Solo quieres charlar sobre programación!
 
 </details>
 
