@@ -14,7 +14,7 @@
   <a href="README.md">
     <img src="https://img.shields.io/badge/🇬🇧-ENGLISH_VERSION-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0066CC" alt="English" />
   </a>
-  &nbsp;&nbsp;
+  <br>
   <a href="README_ES.md">
     <img src="https://img.shields.io/badge/🇪🇸-VERSIÓN_ESPAÑOL-red?style=for-the-badge&logo=github&logoColor=white&labelColor=CC0000" alt="Español" />
   </a>
