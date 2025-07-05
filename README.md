@@ -1,20 +1,3 @@
-<div align="right">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="README.md">
-          <img src="https://img.shields.io/badge/🇬🇧-ENGLISH_VERSION-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0066CC" alt="English" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="README_ES.md">
-          <img src="https://img.shields.io/badge/🇪🇸-VERSIÓN_ESPAÑOL-red?style=for-the-badge&logo=github&logoColor=white&labelColor=CC0000" alt="Español" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=WualterS&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/> 
 </div>
@@ -25,6 +8,10 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+<div align="center">
+  <p>🌐 <em>También disponible en <a href="README_ES.md"><strong>Español</strong></a></em></p>
 </div>
 
 ---
