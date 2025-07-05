@@ -1,9 +1,4 @@
 <div align="right">
-  <h3>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
-    &nbsp;LANGUAGE / IDIOMA&nbsp;
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
-  </h3>
   <table>
     <tr>
       <td align="center" width="50%">
