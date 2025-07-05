@@ -1,8 +1,19 @@
-<p align="right">
-  <a href="README.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="22"/></a>
-  &nbsp;
-  <a href="README_ES.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="22"/></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="README.md">
+          <img src="https://img.shields.io/badge/🌍-ENGLISH-4A90E2?style=for-the-badge&logo=github&logoColor=white&labelColor=2E86AB" alt="English Version" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="README_ES.md">
+          <img src="https://img.shields.io/badge/🌍-ESPAÑOL-E94B3C?style=for-the-badge&logo=github&logoColor=white&labelColor=C44536" alt="Versión Español" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=WualterS&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/> 
