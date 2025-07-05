@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Español](https://img.shields.io/badge/-Español-00D9FF?style=for-the-badge&logo=github&logoColor=white)](README_ES.md)
+<p align="right">
+  <a href="README.md">🇬🇧 English</a> | <a href="README.es.md">🇪🇸 Español</a>
+</p>
 
 </div>
 
