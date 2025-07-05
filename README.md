@@ -1,18 +1,11 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="README.md">
-          <img src="https://img.shields.io/badge/🌍-ENGLISH-4A90E2?style=for-the-badge&logo=github&logoColor=white&labelColor=2E86AB" alt="English Version" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="README_ES.md">
-          <img src="https://img.shields.io/badge/🌍-ESPAÑOL-E94B3C?style=for-the-badge&logo=github&logoColor=white&labelColor=C44536" alt="Versión Español" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge&logo=github&logoColor=white" alt="English" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="README_ES.md">
+    <img src="https://img.shields.io/badge/🇪🇸-Español-red?style=for-the-badge&logo=github&logoColor=white" alt="Español" />
+  </a>
 </div>
 
 <div align="center">
