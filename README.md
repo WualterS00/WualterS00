@@ -1,6 +1,6 @@
-<div align="right">
+<div align="center">
 
-[🇪🇸 Leer en español](https://github.com/WualterS00/WualterS00/blob/main/README_ES.md)
+[![Español](https://img.shields.io/badge/-Español-00D9FF?style=for-the-badge&logo=github&logoColor=white)](README_ES.md)
 
 </div>
 
