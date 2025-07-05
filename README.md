@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="README_ES.md">
-    <img src="https://img.shields.io/badge/🇪🇸-VERSIÓN_ESPAÑOL-red?style=for-the-badge&logo=github&logoColor=white&labelColor=CC0000" alt="Español" />
+    <img src="https://img.shields.io/badge/🇪🇸-VERSIÓN_ESPAÑOL-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Español" />
   </a>
 </div>
 
