@@ -10,7 +10,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<!-- LANGUAGE SELECTOR -->
 <div align="center">
   <h2>🌍 LANGUAGE SELECTOR / SELECTOR DE IDIOMA</h2>
   <br>
@@ -26,7 +25,6 @@
 
 ---
 
-<!-- ENGLISH SECTION -->
 <a name="english"></a>
 ## 🇺🇸 ENGLISH
 
@@ -334,7 +332,6 @@
 
 ---
 
-<!-- SPANISH SECTION - COMPACT VERSION -->
 <a name="spanish"></a>
 ## 🇪🇸 ESPAÑOL
 
