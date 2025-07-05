@@ -1,6 +1,6 @@
 <div align="right">
 
-[🇪🇸 Leer en español](https://github.com/WualterS00/WualterS00/blob/main/README.es.md)
+[🇪🇸 Leer en español](https://github.com/WualterS00/WualterS00/blob/main/README_ES.md)
 
 </div>
 
