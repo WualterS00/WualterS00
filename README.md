@@ -1,11 +1,9 @@
 <p align="right">
-  <a href="README.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="18"/> English
-  </a> |
-  <a href="README.es.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="18"/> Español
-  </a>
+  <a href="README.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="22"/></a>
+  &nbsp;
+  <a href="README.es.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="22"/></a>
 </p>
+
 
 
 <div align="center">
