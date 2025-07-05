@@ -185,7 +185,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/WualterS">
+  <a href="https://github.com/WualterS00">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
   </a>
   <a href="https://discord.com/users/1058211283402502186">
