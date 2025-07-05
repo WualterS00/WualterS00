@@ -1,3 +1,9 @@
+<div align="right">
+
+[🇪🇸 Leer en español](https://github.com/WualterS00/WualterS00/blob/main/README.es.md)
+
+</div>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=WualterS&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/> 
 </div>
