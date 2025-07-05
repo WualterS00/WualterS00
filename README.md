@@ -1,7 +1,12 @@
 <div align="center">
 
 <p align="right">
-  <a href="README.md">🇬🇧 English</a> | <a href="README.es.md">🇪🇸 Español</a>
+  <a href="README.md">
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/> English
+  </a> |
+  <a href="README.es.md">
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/> Español
+  </a>
 </p>
 
 </div>
