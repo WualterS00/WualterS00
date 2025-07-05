@@ -6,9 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+APRENDIENDO+AUTOMATIZACIÓN;🐍+ESTUDIANTE+DE+PYTHON;⚡+ASPIRANTE+A+DESARROLLADOR+DE+BOTS;🎮+AMANTE+DE+LOS+VIDEOJUEGOS;📚+SIEMPRE+APRENDIENDO" alt="Typing SVG" />
 </div>
 
+---
 <div align="center">
-  <a href="README_ES.md">
-    <img src="https://img.shields.io/badge/🇪🇸-VERSIÓN_ESPAÑOL-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="Español" />
+  <a href="https://github.com/WualterS00">
+    <img src="https://img.shields.io/badge/🇬🇧-ENGLISH_VERSION-1D465B?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" alt="English" />
   </a>
 </div>
 
