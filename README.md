@@ -1,10 +1,8 @@
 <p align="right">
   <a href="README.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="22"/></a>
   &nbsp;
-  <a href="README.es.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="22"/></a>
+  <a href="README_ES.md"><img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="22"/></a>
 </p>
-
-
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=WualterS&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/> 
