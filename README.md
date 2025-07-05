@@ -10,14 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
-<div align="center">
-  <h2>🌍 Welcome! | ¡Bienvenido!</h2>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
-    <img src="https://img.shields.io/badge/🇺🇸_English-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50" alt="English" />
-    <span style="font-size: 20px; color: #00D9FF;">•</span>
-    <img src="https://img.shields.io/badge/🇪🇸_Español-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50" alt="Español" />
-  </div>
-</div>
+
 
 ---
 
