@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <h3>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
     &nbsp;LANGUAGE / IDIOMA&nbsp;
@@ -10,15 +10,11 @@
         <a href="README.md">
           <img src="https://img.shields.io/badge/🇬🇧-ENGLISH_VERSION-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0066CC" alt="English" />
         </a>
-        <br>
-        <em>Read in English</em>
       </td>
       <td align="center" width="50%">
         <a href="README_ES.md">
           <img src="https://img.shields.io/badge/🇪🇸-VERSIÓN_ESPAÑOL-red?style=for-the-badge&logo=github&logoColor=white&labelColor=CC0000" alt="Español" />
         </a>
-        <br>
-        <em>Leer en Español</em>
       </td>
     </tr>
   </table>
