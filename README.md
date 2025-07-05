@@ -273,7 +273,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/WualterSEA">
+  <a href="https://github.com/WualterS00">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
@@ -411,7 +411,7 @@ Este fue mi primer proyecto real de automatización, y me enseñó que programar
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WualterSEA&style=for-the-badge&color=00D9FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=WualterS00&style=for-the-badge&color=00D9FF" alt="Profile Views" />
 </div>
 
 <div align="center">
