@@ -112,11 +112,11 @@
     <tr>
       <td align="center" width="50%">
         <h4>📈 LEARNING GOALS</h4>
-        <img src="https://skillicons.dev/icons?i=java,sql,express,mongodb&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java,mysql,express,postgres&theme=dark" />
       </td>
       <td align="center" width="50%">
         <h4>🎯 NEXT TARGETS</h4>
-        <img src="https://skillicons.dev/icons?i=docker,aws,typescript,nextjs&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=docker,aws,typescript,vue&theme=dark" />
       </td>
     </tr>
   </table>
